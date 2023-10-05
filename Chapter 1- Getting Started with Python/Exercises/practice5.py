@@ -1,0 +1,1 @@
+#write four strings to different variables and print output as one string.
