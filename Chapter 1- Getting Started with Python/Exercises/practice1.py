@@ -3,3 +3,4 @@ print('''W
 x
 y
 z''')
+print("W\n X\n Y\n Z")
