@@ -4,8 +4,8 @@ Write a programme that calculates how many USB sticks she can buy and how many p
 
 You will to use the arithmetic operators to complete this exercise.'''
 
-x= 40   #Amount with the girl
-y= 2    #Amount for the USB stick
+x= 50  #Amount with the girl
+y= 6    #Amount for the USB stick
 z=x/y
 print("The girl can get" ,int(z),"USB sticks.")
 
