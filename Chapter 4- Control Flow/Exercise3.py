@@ -19,3 +19,4 @@ elif "red" in alien_color:
     print("the player earned 15 points.")
 else:
     print("the player lose")
+
