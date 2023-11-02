@@ -12,3 +12,9 @@ if "green" in alien_color:
      print("the player just earned 5 points for shooting the alien.")
 else:
      print("the player just earned 10 points.")
+
+alien_color="red"
+if "red" in alien_color:
+     print("the player just earned 30 points for shooting the alien.")
+else:
+     print("the player just earned 50 points.")
